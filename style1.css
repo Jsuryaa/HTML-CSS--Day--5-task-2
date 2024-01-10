@@ -1,0 +1,64 @@
+.col-12{
+    border-style: solid ;
+    height: 550px;
+    width: 1000px;
+    margin: 30px;
+    margin-left: 180px;
+    display: flex;
+    justify-content: center;
+}
+.body-1{
+
+    border-style: solid ;
+    height: 300px;
+    width: 800px;
+    margin-top: 100px;
+
+}
+
+img{
+    
+    width: 200px;
+  height: 200px;
+  border-radius: 50%; 
+  margin-top: 30px;
+  margin-left: 2px;
+  
+}
+
+#seates{
+    width: 90px;
+}
+
+.col-6{
+    
+    margin-top: 20px;
+    
+}
+
+h3{
+    margin: 20px;
+}
+.col-3{
+    border-style: solid ;
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: inline-block;
+    width: 150px; /* Adjust this value based on your preference */
+}
+
+select{
+    width: 190px;
+}
+
+button{
+    width: 150px;
+}
